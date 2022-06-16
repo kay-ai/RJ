@@ -48,7 +48,7 @@ p{
 
 .section{
     height: 100vh;
-    padding: 55px 15px;
+    padding: 40px 20px;
     background-color: #ffffff73;
     backdrop-filter: blur(10px);
     position: relative;
@@ -72,6 +72,11 @@ p{
     font-size: 20px !important;
 }
 
+.f-17{
+    font-size: 17px !important;
+    margin-bottom: 10px;
+}
+
 .w-700{
     font-weight: 700 !important;
 }
@@ -92,7 +97,17 @@ p{
     font-family: 'Sacramento', cursive;
 }
 
+.program-order ol{
+    padding-left: 8px;
+}
+
 .program-order ol li{
     font-size: 20px;
     font-weight: 500;
+}
+
+.logo{
+    position: absolute;
+    bottom: 0;
+    left: 20%;
 }
