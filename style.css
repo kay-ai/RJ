@@ -36,9 +36,9 @@ body{
 .flower-2{
     position: absolute;
     top: 0;
-    right: 0;
-    transform: rotate(165deg);
-    height: 95px;
+    right: -20px;
+    transform: rotate(245deg);
+    height: 110px;
 }
 
 .flower-n{
@@ -54,7 +54,7 @@ p{
     height: 100vh;
     padding: 40px 6%;
     background-color: #ffffff73;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(14px);
     position: relative;
     color: #280421;
     scroll-snap-align: start;
@@ -116,7 +116,7 @@ p{
 
 .logo{
     position: absolute;
-    bottom: 30px;
+    bottom: 50px;
     left: 30%;
 }
 
